@@ -1,0 +1,6 @@
+C:\Users\Michael Wang\Documents\Moro\Moro\bin\Debug\Moro.exe
+C:\Users\Michael Wang\Documents\Moro\Moro\bin\Debug\Moro.pdb
+C:\Users\Michael Wang\Documents\Moro\Moro\obj\Debug\Moro.csprojAssemblyReference.cache
+C:\Users\Michael Wang\Documents\Moro\Moro\obj\Debug\Moro.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\Moro\Moro\obj\Debug\Moro.exe
+C:\Users\Michael Wang\Documents\Moro\Moro\obj\Debug\Moro.pdb
